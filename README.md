@@ -17,7 +17,7 @@ My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/re
   - eslint_d (TypeScript, JavaScript)
   - black (Python)
   
-![image](https://user-images.githubusercontent.com/49073956/215460030-a5bb1cee-c54b-450e-b80c-ae8a3dff514a.png)
+![image](https://user-images.githubusercontent.com/49073956/215460959-079482bb-d43f-41ad-9b01-9f1dadbb228d.png)
 > Screenshot of every plugin
 
 ## Installation
