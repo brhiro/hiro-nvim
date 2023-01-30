@@ -1,4 +1,4 @@
-My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/releases), forked from [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch).
+My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/releases) on Ubuntu 22.04.1 LTS, forked from [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch).
 
 - Added [catppuccin](https://github.com/catppuccin/nvim) color scheme
   - Default color scheme changed from tokyonight to cappuccin-mocha
