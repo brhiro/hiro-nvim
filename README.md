@@ -4,6 +4,7 @@ My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/re
   - Default color scheme changed from tokyonight to cappuccin-mocha
 - Reconfigured LSP and linters for JavaScript and C++ support
 - Disabled some recommended [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) keymaps for faster lazygit navigation
+- Added [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
 
 #### Configured LSP
 - sumneko_lua (Lua)
