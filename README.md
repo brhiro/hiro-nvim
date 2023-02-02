@@ -23,5 +23,5 @@ My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/re
 
 ## Installation
 ```
-git clone https://github.com/brhiro/hiro-nvim.git ~/.config/nvim
+git clone https://github.com/brhiro/nvim.git ~/.config/nvim
 ```
