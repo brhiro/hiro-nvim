@@ -8,10 +8,10 @@ My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/re
 #### Configured LSP
 - sumneko_lua (Lua)
 - jsonls (JSON)
-- clang (C, C++)
+- clangd (C, C++)
 - tsserver (TypeScript, JavaScript)
 - pyright (Python)
-- null-ls (linters and formatters)
+- [null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim) (for linters and formatters)
   - stylua (Lua)
   - prettierd (JavaScript, TypeScript, Flow, JSX, JSON, CSS, SCSS, LESS, HTML, Vue, Angular, GraphQL, Markdown, YAML)
   - eslint_d (TypeScript, JavaScript)
