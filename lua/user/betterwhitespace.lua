@@ -8,6 +8,7 @@ vim.g.better_whitespace_filetypes_blacklist = {
 	"markdown",
 	"fugitive",
 	"toggleterm",
+	"alpha",
 	"startify",
 	"dashboard",
 	"packer",
