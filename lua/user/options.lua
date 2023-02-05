@@ -28,7 +28,10 @@ local options = {
   number = true,                           -- set numbered lines
   relativenumber = false,                  -- set relative numbered lines
   numberwidth = 4,                         -- set number column width to 2 {default 4}
-
+  list = true,                             -- enable list mode
+  listchars = {                            -- characters to use in list mode
+    tab = '  ⋅',
+  },
   signcolumn = "yes",                      -- always show the sign column, otherwise it would shift the text each time
   wrap = true,                             -- display lines as one long line
   linebreak = true,                        -- companion to wrap, don't split words
