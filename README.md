@@ -4,7 +4,10 @@ My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/re
   - Default color scheme changed from tokyonight to catppuccin-mocha
 - Reconfigured LSP and linters for JavaScript and C++ support
 - Disabled some recommended [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) keymaps for faster lazygit navigation
+- Added [telescope sorter](https://github.com/nvim-telescope/telescope-fzf-native.nvim) to improve sorting performance
+  - [ripgrep](https://github.com/BurntSushi/ripgrep) is required for `live_grep` and `grep_string` (must be installed to use `find_files` feature)
 - Added [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
+- Added [vim-commentary](https://github.com/tpope/vim-commentary)
 
 #### Configured LSP
 - sumneko_lua (Lua)
@@ -18,7 +21,7 @@ My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/re
   - eslint_d (TypeScript, JavaScript)
   - black (Python)
   
-![image](https://user-images.githubusercontent.com/49073956/216216903-a72f6105-8d0a-4225-b029-d214f010e6c6.png)
+![image](https://user-images.githubusercontent.com/49073956/216854094-7578bb3f-6ea7-404b-abad-30916388e8d3.png)
 > Screenshot of every plugin
 
 ## Installation
