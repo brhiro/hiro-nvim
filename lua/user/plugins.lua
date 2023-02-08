@@ -58,6 +58,7 @@ return packer.startup(function(use)
   use { "folke/which-key.nvim"}
   use { "ntpeters/vim-better-whitespace" }
   use { "tpope/vim-commentary" }
+  use { "gpanders/editorconfig.nvim" }
 
 	-- Colorschemes
   use { "folke/tokyonight.nvim", commit = "66bfc2e8f754869c7b651f3f47a2ee56ae557764" }
