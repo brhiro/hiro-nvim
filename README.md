@@ -6,9 +6,8 @@ My personal config files for [Neovim v0.8.2](https://github.com/neovim/neovim/re
 - Disabled some recommended [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) keymaps for faster lazygit navigation
 - Added [telescope sorter](https://github.com/nvim-telescope/telescope-fzf-native.nvim) to improve sorting performance
   - [ripgrep](https://github.com/BurntSushi/ripgrep) is required for `live_grep` and `grep_string` (must be installed to use `find_files` feature)
-- Added [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
-- Added [vim-commentary](https://github.com/tpope/vim-commentary)
 - Added [editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim)
+- Added [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace), [vim-commentary](https://github.com/tpope/vim-commentary), [Tabular.vim](https://github.com/godlygeek/tabular) and other QoL editing plugins
 
 #### Configured LSP
 - sumneko_lua (Lua)
