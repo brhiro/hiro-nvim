@@ -7,6 +7,7 @@ smartcolumn.setup({
 	colorcolumn = 120,
 	disabled_filetypes = {
 		"alpha",
+		"checkhealth",
 		"help",
 		"text",
 		"markdown",
