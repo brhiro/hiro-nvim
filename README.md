@@ -22,7 +22,7 @@ My personal neovim config files, based on [Neovim-from-scratch](https://github.c
 
 ## Installation
 #### Requirements
-- [ripgrep](https://github.com/BurntSushi/ripgrep) for Telescope (find_files)
+- [ripgrep](https://github.com/BurntSushi/ripgrep) for `:Telescope live_grep`
 - The configured LSP listed above (install with `:Mason`)
 
 Run `:checkhealth` for a list of other missing dependencies
